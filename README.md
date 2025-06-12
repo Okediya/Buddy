@@ -1,3 +1,8 @@
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=okediya/buddy@github)](https://gitads.dev/v1/ad-track?source=okediya/buddy@github)
+
+
+
 <!-- GitAds-Verify: XAMCHO6E1VBL926RJY9GKEBTHTTPN64Q -->
 
 # Simple Kivy Chatbot
