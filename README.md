@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: XAMCHO6E1VBL926RJY9GKEBTHTTPN64Q -->
+
 # Simple Kivy Chatbot
 
 A basic chatbot application built using Python and the Kivy framework. The app features a graphical user interface (GUI) where users can type messages and receive predefined responses from the chatbot.
